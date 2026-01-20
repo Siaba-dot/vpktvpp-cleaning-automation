@@ -1,0 +1,20 @@
+
+# Streamlit Cloud / local defaults
+[server]
+headless = true
+runOnSave = true
+
+[browser]
+#gatherUsageStats = false
+
+[client]
+# Hide the hamburger and Streamlit footer if you like (optional)
+#toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#6EE7F9"          # Neon cyan (mygtukai)
+secondaryBackgroundColor = "#0e1424"  # Sidebar kortelės
+backgroundColor = "#0b0f19"        # Fonui; gradientą leidžiame per CSS pačioje app
+textColor = "#E6EEFC"
+font = "sans serif"
