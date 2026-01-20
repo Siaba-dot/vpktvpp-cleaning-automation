@@ -16,7 +16,7 @@ from openpyxl.workbook.workbook import Workbook
 # THEME / UI
 # =========================
 st.set_page_config(
-    page_title="Anykščiai: Aktas + Grafikas → X + Periodiškumas + Kaina (TRUNC)",
+    page_title="Aktas + Grafikas → X + Periodiškumas + Kaina (TRUNC)",
     page_icon="🧾",
     layout="wide",
 )
